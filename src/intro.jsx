@@ -16,7 +16,7 @@ export default function Intro() {
           </button>
         </div>
       </section>
-      <p className="ml-[1000px]">submited to mrs. Habtam Atnaw</p>
+      <p className="ml-[1000px] text-2xl">submited to mrs. Habtam Atnaw</p>
     </main>
   );
 }
